@@ -18,3 +18,9 @@ print("Hello World");
 ```
 
 To save Read Me, you've to 'commit'.
+
+# How to run code
+```
+python forst.py
+```
+* enjoy
