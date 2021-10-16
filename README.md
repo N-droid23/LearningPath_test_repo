@@ -26,3 +26,7 @@ python first.py
 * enjoy
 
 To add urls, get the link here and click ctrl + k.
+
+Added this from my local server
+* hello
+* how do you do?
