@@ -24,3 +24,5 @@ To save Read Me, you've to 'commit'.
 python first.py
 ```
 * enjoy
+
+To add urls, get the link here and click ctrl + k.
