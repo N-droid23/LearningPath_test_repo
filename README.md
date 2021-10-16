@@ -1,7 +1,7 @@
 # LearningPath_test_repo
 Our first GitHub Repository
 
-To create a list, use * or #
+To create a list, use * or -
 * Neha
 * Roshni
 * Rachita
